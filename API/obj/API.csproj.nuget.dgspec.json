@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Angular+Dotnet\\DatingApp\\API\\API.csproj": {}
+    "g:\\Angular+Dotnet\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "G:\\Angular+Dotnet\\DatingApp\\API\\API.csproj": {
+    "g:\\Angular+Dotnet\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Angular+Dotnet\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "g:\\Angular+Dotnet\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "G:\\Angular+Dotnet\\DatingApp\\API\\API.csproj",
+        "projectPath": "g:\\Angular+Dotnet\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\royan\\.nuget\\packages\\",
-        "outputPath": "G:\\Angular+Dotnet\\DatingApp\\API\\obj\\",
+        "outputPath": "g:\\Angular+Dotnet\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\royan\\AppData\\Roaming\\NuGet\\NuGet.Config",
